@@ -299,7 +299,7 @@ function App() {
 
         <section id="contact" className="container section-gap">
           <div className="glass-card contact-card">
-            <SectionTitle eyebrow="Contact" title="พร้อมเปิดรับโอกาสใหม่ ๆ" />
+            <SectionTitle eyebrow="Contact" title="Contact" />
 
             <div className="contact-grid">
               {contactItems.map((item) => (
